@@ -11,6 +11,10 @@ oe_elementData = {
         x = { position = Vector3(9.375, 0.0, 0.0), rotation = Vector3(0.0, 180,0, 0.0) },
         y = { position = Vector3(0.0, 0.0, 0.0), rotation = Vector3(0.0, 0.0, 0.0) }
     },
+    ["1407"] = { -- DYN_FR_WOOD_1
+    x = { position = Vector3(4.675, 0.0, 0.0), rotation = Vector3(0.0, 0,0, 0.0) },
+    y = { position = Vector3(0.0, 0.0, 1.6), rotation = Vector3(0.0, 0.0, 0.0) }
+    },
     ["1410"] = { -- DYN_F_R_WOOD_1b
         x = { position = Vector3(4.675, 0.0, 0.0), rotation = Vector3(0.0, 0,0, 0.0) },
         y = { position = Vector3(0.0, 0.0, 1.450), rotation = Vector3(0.0, 0.0, 0.0) }
@@ -18,6 +22,10 @@ oe_elementData = {
     ["3095"] = { -- a51_jetdoor
         x = { position = Vector3(9.0, 0.0, 0.0), rotation = Vector3(0.0, 0,0, 0.0) },
         y = { position = Vector3(0.0, 9.0, 0.0), rotation = Vector3(0.0, 0.0, 0.0) }
+    },
+    ["3406"] = { -- cxref_woodjetty
+        x = { position = Vector3(8.8, 0.0, 0.0), rotation = Vector3(0.0, 0,0, 0.0) },
+        y = { position = Vector3(0.0, 2.184, 0.0), rotation = Vector3(0.0, 0.0, 0.0) }
     },
     ["3437"] = { -- ballypllr01_lvs
         x = { position = Vector3(0.0, 0.0, 11.6875), rotation = Vector3(0.0, 180,0, 0.0) },

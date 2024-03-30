@@ -3,6 +3,8 @@
 	<oop>true</oop>
 
   <script src="client/init.lua" type="client" />
-  <script src="client/objectData.lua" type="client" />
+  <script src="objectData.lua" type="client" />
   <script src="client/objectExtender.lua" type="client" />
+
+  <script src="server/createObject.lua" type="server" />
 </meta>
